@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06585868.css",
+    "main.js": "/static/js/main.f7f8aab7.js",
+    "static/media/video.mp4": "/static/media/video.f7cfb4c95cba15b336bf.mp4",
+    "static/media/fitnes.jpg": "/static/media/fitnes.80d6a7a3395275e55aba.jpg",
+    "static/media/NUTRITION.png": "/static/media/NUTRITION.80fc129181a15300e499.png",
+    "static/media/workout.png": "/static/media/workout.1123041c0dbd9a2d0ada.png",
+    "static/media/2.png": "/static/media/2.d5caa2116980fbee0a64.png",
+    "static/media/bck.jpg": "/static/media/bck.17cd7375cd649b690dd4.jpg",
+    "static/media/1.jpg": "/static/media/1.7d10d05366b12863ddfc.jpg",
+    "static/media/core2.jpg": "/static/media/core2.06176bc81ca2164e1bed.jpg",
+    "static/media/4.jpg": "/static/media/4.906d8ff739e3fb31dea0.jpg",
+    "static/media/up4.jpg": "/static/media/up4.21968e30166c6e683861.jpg",
+    "static/media/background.mp4": "/static/media/background.0cfb3ec67748863d189e.mp4",
+    "static/media/trackerBlock.png": "/static/media/trackerBlock.abd7828db36ca1bb68b7.png",
+    "static/media/lowerbody.jpg": "/static/media/lowerbody.5ef0809acca078ee431c.jpg",
+    "static/media/prvaslika.png": "/static/media/prvaslika.da16280af7b0fc779300.png",
+    "static/media/moon.png": "/static/media/moon.77a73e58bd46f783fae5.png",
+    "static/media/slika.jpg": "/static/media/slika.52a45f6edeabf20139c3.jpg",
+    "static/media/foodlogBlock.png": "/static/media/foodlogBlock.8bd2f815d1429882ff92.png",
+    "static/media/3.jpg": "/static/media/3.e36734c39faf7826a897.jpg",
+    "static/media/arrow.png": "/static/media/arrow.e600fed76234ee7423aa.png",
+    "index.html": "/index.html",
+    "main.06585868.css.map": "/static/css/main.06585868.css.map",
+    "main.f7f8aab7.js.map": "/static/js/main.f7f8aab7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06585868.css",
+    "static/js/main.f7f8aab7.js"
+  ]
+}
